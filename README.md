@@ -1,5 +1,5 @@
 # Oval-Product
-A Automation Tools That Greps Products from The Excel 
+A Automation Tool That Greps Products from The Excel 
 
 
 Developed by Surya.M
