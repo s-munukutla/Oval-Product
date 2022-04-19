@@ -1,9 +1,9 @@
 
-<line_test xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#junos" id = "oval:org.tanium.junos.cve:tst:11117001" check_existence = "at_least_one_exists" comment = "Check for MX Series " version = "1" check = "all" >
-    <object object_ref ="oval:org.tanium.cisco.junos.cve:obj:8000"/>
-    <state state_ref ="oval:org.tanium.junos.cve:ste:33337001"/>
+<line_test xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#nxos" id = "oval:org.tanium.cisco.nxos.cve:tst:11118001" check_existence = "at_least_one_exists" comment = "Check for 1000V Series Switches" version = "1" check = "all" >
+    <object object_ref ="oval:org.tanium.cisco.nxos.cve:obj:8000"/>
+    <state state_ref ="oval:org.tanium.cisco.nxos.cve:ste:33338017"/>
 </line_test>
 
-<line_state xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#junos" id = "oval:org.tanium.junos.cve:ste:33337001" version = "1" comment = "MX Series Affected Pattern" >
-    <config_line operation ="pattern match" >[Mm][Xx][0-9]{1,3}</config_line >
+<line_state xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#nxos" id = "oval:org.tanium.cisco.nxos.cve:ste:33338017" version = "1" comment = "1000V Series SwitchesAffected Pattern" >
+    <config_line operation ="pattern match" >1000[Vv]</config_line >
 </line_state>

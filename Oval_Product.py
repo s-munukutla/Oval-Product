@@ -38,14 +38,19 @@ while True:
          fam=row['Family']
          if fam == "iosxe":
             tst['product'] = "iosxe"
+            tst['object_id'] = 2000
          elif fam == "ios":
              tst['product'] = "ios"
+             tst['object_id'] = 3000
          elif fam == "asa":
               tst['product'] = "asa"
+              tst['object_id'] = 4000
          elif fam == "junos":
               tst['product'] = "junos"
+              tst['object_id'] = 7000
          elif fam == "nxos":
               tst['product'] = "nxos"
+              tst['object_id'] = 8000
          else:
             print("Object id is Miss Match")
            
