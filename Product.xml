@@ -1,18 +1,9 @@
 
-<line_test xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#nxos" id = "oval:org.tanium.cisco.nxos.cve:tst:11118006" check_existence = "at_least_one_exists" comment = "Check for 3000 Series Switches " version = "1" check = "all" >
-    <object object_ref ="oval:org.tanium.cisco.nxos.cve:obj:8000"/>
-    <state state_ref ="oval:org.tanium.cisco.nxos.cve:ste:33338005"/>
+<line_test xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#junos" id = "oval:org.tanium.junos.cve:tst:11117001" check_existence = "at_least_one_exists" comment = "Check for MX Series " version = "1" check = "all" >
+    <object object_ref ="oval:org.tanium.cisco.junos.cve:obj:8000"/>
+    <state state_ref ="oval:org.tanium.junos.cve:ste:33337001"/>
 </line_test>
 
-<line_state xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#nxos" id = "oval:org.tanium.cisco.nxos.cve:ste:33338005" version = "1" comment = "3000 Series Switches Affected Pattern" >
-    <config_line operation ="pattern match" >[Nn]3[Kk]-[Cc]3[0-9]{3}</config_line >
-</line_state>
-
-<line_test xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#nxos" id = "oval:org.tanium.cisco.nxos.cve:tst:11118007" check_existence = "at_least_one_exists" comment = "Check for Cisco 9000 MDS & FS" version = "1" check = "all" >
-    <object object_ref ="oval:org.tanium.cisco.nxos.cve:obj:8000"/>
-    <state state_ref ="oval:org.tanium.cisco.nxos.cve:ste:33338006"/>
-</line_test>
-
-<line_state xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#nxos" id = "oval:org.tanium.cisco.nxos.cve:ste:33338006" version = "1" comment = "Cisco 9000 MDS & FSAffected Pattern" >
-    <config_line operation ="pattern match" >[Dd][Ss]-[Cc]9[0-9]{3}</config_line >
+<line_state xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#junos" id = "oval:org.tanium.junos.cve:ste:33337001" version = "1" comment = "MX Series Affected Pattern" >
+    <config_line operation ="pattern match" >[Mm][Xx][0-9]{1,3}</config_line >
 </line_state>
