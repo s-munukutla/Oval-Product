@@ -1,25 +1,17 @@
 import pandas as pd
 from temp import *
+from modules import *
+import re,sys
 """Declaring The Sheet Name And Test ID Manually"""
 
 sheet_info = str(input("Enter The Sheet Name:"))
-file = open('Product.xml', 'w')
-df = pd.read_excel('/home/surya/Documents/Python/OVAL_Product/Definition ID Database.xlsx', sheet_info)
-
-def build_id(h):
-    test_out = tst_id.format(data=h)
-    file.writelines(test_out)
-    file.write("\n")
-
-def build_state(g):
-    state_out = state_id.format(data=g)
-    file.writelines(state_out)
-    file.write("\n")
+df = pd.read_excel(sys.argv[1], sheet_info)
 
 while True:
    test_id = str(input("Enter the Test Id:"))
    if test_id == '0':
-          break;
+       print("Use Generated Product.xml in the Folder")
+       break;
    data = pd.DataFrame(df,columns=['TEST ID','Common Test','Family','Object ID','Object Command'])
    data = data.where(data['TEST ID'] == test_id)
    states_data = pd.DataFrame(df,columns=['State', 'States Regex'])
@@ -57,16 +49,24 @@ while True:
             if states['State'] != 0 and Common_Test != 0 :
                states_val = states['State'][-4:]
                if states_val == Common_Test:
-                  '''test_id,Comment,state_id for tst_id in the tmp file to generate the test template'''
-                  tst["product"] = row['Family']
-                  tst["test_id"] = test_id
-                  tst["Comment"] = row['Common Test'].split("(")[0]
-                  tst["state_id"] = states['State']
-                  '''test_id,Comment,state_id for state_id in the tmp file to generate the state template'''
-                  state["state_id"] = states['State']
-                  state["product"] = row['Family']
-                  state["Comment"] = row['Common Test'].split("(")[0]
-                  state["state_regex"] = states['States Regex'] 
-                  build_id(tst)
-                  build_state(state)
-file.close()
+                     if fam == "junos":
+                         tst["product"] = row['Family']
+                         tst["test_id"] = test_id
+                         state["product"] = row['Family']
+                         state["state_id"] = tst["state_id"] = states['State']
+                         tst["Comment"] = row['Common Test'].split("(")[0]
+                         state["Comment"] = row['Common Test'].split("(")[0]
+                         state["state_regex"] = states['States Regex']
+                         build_jun_id(tst)
+                         build_state_jun(state)
+                     else:
+                        tst["product"] = row['Family']
+                        tst["test_id"] = test_id
+                        tst["state_id"] = states['State']
+                        tst["Comment"] = row['Common Test'].split("(")[0]
+                        state["product"] = row['Family']
+                        state["state_id"] = states['State']
+                        state["state_regex"] = states['States Regex']
+                        state["Comment"] = row['Common Test'].split("(")[0]
+                        build_id(tst)
+                        build_state(state)
