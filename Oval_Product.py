@@ -2,7 +2,7 @@ import pandas as pd
 from temp import *
 """Declaring The Sheet Name And Test ID Manually"""
 
-sheet_info = str(input("Enter  The Sheet Name:"))
+sheet_info = str(input("Enter The Sheet Name:"))
 file = open('Product.xml', 'w')
 df = pd.read_excel('/home/surya/Documents/Python/OVAL_Product/Definition ID Database.xlsx', sheet_info)
 
@@ -12,7 +12,7 @@ def build_id(h):
     file.write("\n")
 
 def build_state(g):
-    state_out= state_id.format(data=g)
+    state_out = state_id.format(data=g)
     file.writelines(state_out)
     file.write("\n")
 
@@ -23,12 +23,11 @@ while True:
    data = pd.DataFrame(df,columns=['TEST ID','Common Test','Family','Object ID','Object Command'])
    data = data.where(data['TEST ID'] == test_id)
    states_data = pd.DataFrame(df,columns=['State', 'States Regex'])
-   family_data=pd.DataFrame(df,columns=['Family'])
+   family_data = pd.DataFrame(df,columns=['Family'])
    data = data.reset_index()
-   states_data=states_data.reset_index()
-   family_data = family_data.reset_index()
+   states_data = states_data.reset_index()
    data=data.fillna(0)
-   states_data=states_data.fillna(0)
+   states_data = states_data.fillna(0)
    state = {}
    tst = {}
    '''Grep For The Common Test to Common State'''
@@ -37,20 +36,20 @@ while True:
          Common_Test = row['Common Test'][-5:-1]
          fam=row['Family']
          if fam == "iosxe":
-            tst['product'] = "iosxe"
-            tst['object_id'] = 2000
+            tst["product"] = "iosxe"
+            tst["object_id"] = 2000
          elif fam == "ios":
-             tst['product'] = "ios"
-             tst['object_id'] = 3000
+             tst["product"] = "ios"
+             tst["object_id"] = 3000
          elif fam == "asa":
-              tst['product'] = "asa"
-              tst['object_id'] = 4000
+             tst["product"] = "asa"
+             tst["object_id"] = 4000
          elif fam == "junos":
-              tst['product'] = "junos"
-              tst['object_id'] = 7000
+             tst["product"] = "junos"
+             tst["object_id"] = 7000
          elif fam == "nxos":
-              tst['product'] = "nxos"
-              tst['object_id'] = 8000
+             tst["product"] = "nxos"
+             tst["object_id"] = 8000
          else:
             print("Object id is Miss Match")
            
