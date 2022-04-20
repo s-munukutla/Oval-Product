@@ -4,6 +4,9 @@
 ---------------------------------------------------------------
 _Automating the Manual_ _A Python Automation Module for `Lazy Developers`_
 
+### Authors
+- Surya Sesank
+- Sujan
 
 ###### Tool Usage:
 
