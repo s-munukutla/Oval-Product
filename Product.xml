@@ -1,8 +1,8 @@
-<show_test xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#junos" id = "oval:org.tanium.junos.cve:tst:11117008" check_existence = "at_least_one_exists" comment = "Check for QFX5000 Series  " version = "1" check = "all" >
-      <object object_ref = ""oval:org.tanium.cisco.junos.cve:obj:7000""/>
-      <state state_ref = "oval:org.tanium.junos.cve:ste:33337008"/>
+<show_test xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#junos" id = "oval:org.tanium.junos.cve:tst:11117010" check_existence = "at_least_one_exists" comment = "Check for  SRX4600" version = "1" check = "all" >
+      <object object_ref = "oval:org.tanium.junos.cve:obj:7000"/>
+      <state state_ref = "oval:org.tanium.junos.cve:ste:33337010"/>
 </show_test>
 
-<show_state xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#junos" id ="oval:org.tanium.junos.cve:ste:33337008" comment ="State for QFX5000 Series " version = "1" >
-<value datatype = "string" operation = "pattern match" >[Qq][Ff][Xx]5[0-9]{3}</value >
+<show_state xmlns = "http://oval.mitre.org/XMLSchema/oval-definitions-5#junos" id ="oval:org.tanium.junos.cve:ste:33337010" comment ="State for  SRX4600" version = "1" >
+<value datatype = "string" operation = "pattern match" >[Ss][Rr][Xx]4600</value >
 </show_state>
