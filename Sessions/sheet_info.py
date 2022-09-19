@@ -1,35 +1,33 @@
 import pandas as pd
-from temp import *
-from modules import *
+from Sessions.temp import *
+from Sessions.modules import *
 import re,sys
 
 cert = []
 test = []
 stater = []
 
-"""Declaring The Sheet Name And Test ID Manually"""
-def sheet_info(sheet_name,test_id):
+class sheetData():
+    def __init__(self, sheet_name,test_id) -> None:
+        self.test_id = test_id
+        df = pd.read_excel(sys.argv[1], sheet_name)
+        self.data = pd.DataFrame(df, columns=['TEST ID', 'Common Test', 'Family', 'Object ID', 'Object Command'])
+        self.data = self.data.where(self.data['TEST ID'] == test_id)
+        self.states_data = pd.DataFrame(df, columns=['State', 'States Regex'])
+        self.family_data = pd.DataFrame(df, columns=['Family'])
+        self.data = self.data.reset_index()
+        self.states_data = self.states_data.reset_index()
+        self.data = self.data.fillna(0)
+        self.states_data = self.states_data.fillna(0)
+        self.sheet_info()
 
-    df = pd.read_excel(sys.argv[1],sheet_name)
-
-    while True:
-        if test_id == '0':
-            print("Use Generated Product.xml in the Folder")
-            break;
-        data = pd.DataFrame(df,columns=['TEST ID','Common Test','Family','Object ID','Object Command'])
-        data = data.where(data['TEST ID'] == test_id)
-        states_data = pd.DataFrame(df,columns=['State', 'States Regex'])
-        family_data = pd.DataFrame(df,columns=['Family'])
-        data = data.reset_index()
-        states_data = states_data.reset_index()
-        data=data.fillna(0)
-        states_data = states_data.fillna(0)
+    def sheet_info(self):
         state = {}
         tst = {}
         crt = {}
-
         '''Grep For The Common Test to Common State'''
-        for index, row in data.iterrows():
+        for index, row in self.data.iterrows():
+            #self.excelData = {self.data['TEST ID']: row['Common Test'][-5:-1]}
             if row['Common Test'] != 0:
                 Common_Test = row['Common Test'][-5:-1]
                 fam=row['Family']
@@ -51,15 +49,15 @@ def sheet_info(sheet_name,test_id):
                 else:
                     print("Object id is Miss Match")
                 
-                for index_state, states in states_data.iterrows():
+                for index_state, states in self.states_data.iterrows():
                     if states['State'] != 0 and Common_Test != 0 :
                         states_val = states['State'][-4:]
                         if states_val == Common_Test:
                                 if fam == "junos":
-                                    crt["test_id"] = test_id
+                                    crt["test_id"] = self.test_id
                                     crt["Comment"] = row['Common Test'].split("(")[0]
                                     tst["product"] = row['Family']
-                                    tst["test_id"] = test_id
+                                    tst["test_id"] = self.test_id
                                     state["product"] = row['Family']
                                     state["state_id"] = tst["state_id"] = states['State']
                                     tst["Comment"] = row['Common Test'].split("(")[0]
@@ -69,10 +67,10 @@ def sheet_info(sheet_name,test_id):
                                     test.append(tst)
                                     stater.append(state)
                                 else:
-                                    crt["test_id"] = test_id
+                                    crt["test_id"] = self.test_id
                                     crt["Comment"] = row['Common Test'].split("(")[0]
                                     tst["product"] = row['Family']
-                                    tst["test_id"] = test_id
+                                    tst["test_id"] = self.test_id
                                     tst["state_id"] = states['State']
                                     tst["Comment"] = row['Common Test'].split("(")[0]
                                     state["product"] = row['Family']

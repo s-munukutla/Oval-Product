@@ -1,4 +1,4 @@
-from temp import *
+from Sessions.temp import *
 file = open('Product.xml', 'w')
 
 def build_id(h):
