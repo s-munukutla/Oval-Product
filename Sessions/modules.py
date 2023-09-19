@@ -7,7 +7,6 @@ def build_id(h):
         file.writelines(test_out)
         file.write("\n")
 
-
 def build_state(g):
     for i in g:
         state_out = state_id.format(data=i)

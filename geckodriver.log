@@ -1,0 +1,288 @@
+1659764508205	geckodriver	INFO	Listening on 127.0.0.1:36527
+1659764508581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33767" "-no-remote" "-profile" "/tmp/rust_mozprofileE4ebwV"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659764513114	Marionette	INFO	Marionette enabled
+1659764513124	Marionette	INFO	Listening on port 46123
+WebDriver BiDi listening on ws://localhost:33767
+1659764513958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE4ebwV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33767/devtools/browser/afd23637-4c29-4649-836b-3b6ccc613245
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+1659767409426	geckodriver	INFO	Listening on 127.0.0.1:34117
+1659767409901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "49873" "-no-remote" "-profile" "/tmp/rust_mozprofileiZlVJP"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659767413124	Marionette	INFO	Marionette enabled
+1659767413136	Marionette	INFO	Listening on port 43435
+WebDriver BiDi listening on ws://localhost:49873
+1659767413935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiZlVJP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49873/devtools/browser/47e433bf-5e0c-4741-bf00-54752adf07c5
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+1659767511505	geckodriver	INFO	Listening on 127.0.0.1:34969
+1659767512010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53503" "-no-remote" "-profile" "/tmp/rust_mozprofileiqC1EF"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659767513388	Marionette	INFO	Marionette enabled
+1659767513395	Marionette	INFO	Listening on port 39869
+WebDriver BiDi listening on ws://localhost:53503
+1659767513732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiqC1EF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53503/devtools/browser/ece193f1-4d3d-4ef1-978f-050ca6491574
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+1659768716239	geckodriver	INFO	Listening on 127.0.0.1:36315
+1659768716276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "51271" "-no-remote" "-profile" "/tmp/rust_mozprofileNRr6Rv"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659768717619	Marionette	INFO	Marionette enabled
+1659768717623	Marionette	INFO	Listening on port 41871
+WebDriver BiDi listening on ws://localhost:51271
+1659768718032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNRr6Rv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51271/devtools/browser/503bb693-e67b-4478-b6fe-d3881698479a
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+1659768829453	geckodriver	INFO	Listening on 127.0.0.1:56021
+1659768829954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "33635" "-no-remote" "-profile" "/tmp/rust_mozprofileoQztD2"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659768832323	Marionette	INFO	Marionette enabled
+1659768832327	Marionette	INFO	Listening on port 39425
+WebDriver BiDi listening on ws://localhost:33635
+1659768832880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoQztD2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33635/devtools/browser/22bdaefd-509a-4b0d-be2f-91ecfc79ace3
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+1659768978459	geckodriver	INFO	Listening on 127.0.0.1:39029
+1659768978962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "54259" "-no-remote" "-profile" "/tmp/rust_mozprofileppe3D4"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659768980236	Marionette	INFO	Marionette enabled
+1659768980240	Marionette	INFO	Listening on port 34311
+WebDriver BiDi listening on ws://localhost:54259
+1659768980658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileppe3D4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54259/devtools/browser/a49a9b25-0d7f-40de-b97a-46bbcd24298d
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+1659769034206	geckodriver	INFO	Listening on 127.0.0.1:34039
+1659769034750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "42943" "-no-remote" "-profile" "/tmp/rust_mozprofileK5wiDh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659769036504	Marionette	INFO	Marionette enabled
+1659769036508	Marionette	INFO	Listening on port 36827
+WebDriver BiDi listening on ws://localhost:42943
+1659769036791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK5wiDh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42943/devtools/browser/e0cc68d7-5e68-4e66-af67-f389c5909ac3
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+1659769164682	geckodriver	INFO	Listening on 127.0.0.1:56835
+1659769165185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "47873" "-no-remote" "-profile" "/tmp/rust_mozprofilekCStCa"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659769166294	Marionette	INFO	Marionette enabled
+1659769166298	Marionette	INFO	Listening on port 43717
+WebDriver BiDi listening on ws://localhost:47873
+1659769166704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekCStCa/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47873/devtools/browser/19c4bad0-7de5-4c07-a71f-c35c32726fb1
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+1659769265624	geckodriver	INFO	Listening on 127.0.0.1:51787
+1659769265626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "53301" "-no-remote" "-profile" "/tmp/rust_mozprofileZ8YgPQ"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659769267387	Marionette	INFO	Marionette enabled
+1659769267391	Marionette	INFO	Listening on port 42249
+WebDriver BiDi listening on ws://localhost:53301
+1659769267945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ8YgPQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:53301/devtools/browser/9050a4fc-402c-4772-9048-684d5609c8e2
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+1659769470117	geckodriver	INFO	Listening on 127.0.0.1:58223
+1659769470520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "43509" "-no-remote" "-profile" "/tmp/rust_mozprofilep8hD1B"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659769471994	Marionette	INFO	Marionette enabled
+1659769472000	Marionette	INFO	Listening on port 38683
+WebDriver BiDi listening on ws://localhost:43509
+1659769472380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep8hD1B/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43509/devtools/browser/dddb5d85-a3b6-4424-b836-d9f68ccf5245
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659769549367	geckodriver	INFO	Listening on 127.0.0.1:49271
+1659769549869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "40181" "-no-remote" "-profile" "/tmp/rust_mozprofilePOUwHD"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659769551633	Marionette	INFO	Marionette enabled
+1659769551637	Marionette	INFO	Listening on port 42661
+WebDriver BiDi listening on ws://localhost:40181
+1659769551921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePOUwHD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40181/devtools/browser/46819e8a-4fb0-4c83-a1c4-fa1304cf2973
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1659769630314	geckodriver	INFO	Listening on 127.0.0.1:55925
+1659769630817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "45035" "-no-remote" "-profile" "/tmp/rust_mozprofileO8unBr"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659769631970	Marionette	INFO	Marionette enabled
+1659769631974	Marionette	INFO	Listening on port 35567
+WebDriver BiDi listening on ws://localhost:45035
+1659769632318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO8unBr/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45035/devtools/browser/355faac3-a91b-43ac-bfcf-8e2d0e2dd690
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659769802297	Marionette	INFO	Stopped listening on port 39425
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659769802315	Marionette	INFO	Stopped listening on port 39869
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659769802323	Marionette	INFO	Stopped listening on port 46123
+1659769802324	Marionette	INFO	Stopped listening on port 43717
+1659769802329	Marionette	INFO	Stopped listening on port 34311
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659769802340	Marionette	INFO	Stopped listening on port 35567
+1659769802341	Marionette	INFO	Stopped listening on port 43435
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659769802346	Marionette	INFO	Stopped listening on port 41871
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659769802360	Marionette	INFO	Stopped listening on port 36827
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+!!! error running onStopped callback: TypeError: callback is not a function
+1659769802397	Marionette	INFO	Stopped listening on port 42249
+!!! error running onStopped callback: TypeError: callback is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+!!! error running onStopped callback: TypeError: callback is not a function
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":175,"stack":["resource://gre/modules/CrashMonitor.jsm:init:175","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":false},"attempts":3,"successes":2,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.jsm","lineNumber":426,"stack":["resource:///modules/sessionstore/SessionFile.jsm:write:426","resource:///modules/sessionstore/SessionFile.jsm:write:54","resource:///modules/sessionstore/SessionSaver.jsm:_writeState:363","resource:///modules/sessionstore/SessionSaver.jsm:_saveState:297","resource:///modules/sessionstore/SessionSaver.jsm:run:165","resource:///modules/sessionstore/SessionSaver.jsm:run:80","resource:///modules/sessionstore/SessionStore.jsm:ssi_uninit:1001","resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplication:2291","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1035"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/build/firefox-6yohV0/firefox-103.0+build1/dom/system/IOUtils.cpp","lineNumber":1982,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/build/firefox-6yohV0/firefox-103.0+build1/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:162","resource://gre/modules/XPCOMUtils.jsm:get:63","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1692","resource:///modules/BrowserGlue.jsm:BG_observe:933","chrome://browser/content/browser.js:_delayedStartup:2144"]},{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Sat Aug 06 2022 12:40:12 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":null,"messagesSent":17,"messagesReceived":16,"messagesQueued":17,"DEBUG":false,"clients":"Complete"},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1566,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1566","resource://gre/modules/osfile/osfile_async_front.jsm:null:1586","resource://gre/modules/osfile.jsm:null:12","resource://services-common/utils.js:readJSON:434","resource://gre/modules/FxAccountsStorage.jsm:get:474","resource://gre/modules/FxAccountsStorage.jsm:_readPlainStorage:268","resource://gre/modules/FxAccountsStorage.jsm:_initialize:103","resource://gre/modules/FxAccountsStorage.jsm:initialize:72","resource://gre/modules/FxAccounts.jsm:newAccountState:861","resource://gre/modules/FxAccounts.jsm:initialize:755","resource://gre/modules/FxAccounts.jsm:FxAccounts:384","resource://gre/modules/FxAccounts.jsm:getFxAccountsSingleton:1627","resource://services-sync/UIState.jsm:null:244","resource://gre/modules/XPCOMUtils.jsm:get:63","resource://services-sync/UIState.jsm:_getUserData:188","resource://services-sync/UIState.jsm:_refreshFxAState:145","resource://services-sync/UIState.jsm:refreshState:116","resource://services-sync/UIState.jsm:init/<:83"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":175,"stack":["resource://gre/modules/CrashMonitor.jsm:init:175","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":false},"attempts":4,"successes":3,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.jsm","lineNumber":426,"stack":["resource:///modules/sessionstore/SessionFile.jsm:write:426","resource:///modules/sessionstore/SessionFile.jsm:write:54","resource:///modules/sessionstore/SessionSaver.jsm:_writeState:363","resource:///modules/sessionstore/SessionSaver.jsm:_saveState:297","resource:///modules/sessionstore/SessionSaver.jsm:run:165","resource:///modules/sessionstore/SessionSaver.jsm:run:80","resource:///modules/sessionstore/SessionStore.jsm:ssi_uninit:1001","resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplication:2291","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1035"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/build/firefox-6yohV0/firefox-103.0+build1/dom/system/IOUtils.cpp","lineNumber":1982,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/build/firefox-6yohV0/firefox-103.0+build1/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:162","resource://gre/modules/XPCOMUtils.jsm:get:63","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1692","resource:///modules/BrowserGlue.jsm:BG_observe:933","chrome://browser/content/browser.js:_delayedStartup:2144"]},{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Sat Aug 06 2022 12:40:12 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":null,"messagesSent":21,"messagesReceived":20,"messagesQueued":22,"DEBUG":false,"clients":"Complete"},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1566,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1566","resource://gre/modules/osfile/osfile_async_front.jsm:null:1586","resource://gre/modules/osfile.jsm:null:12","resource://services-common/utils.js:readJSON:434","resource://gre/modules/FxAccountsStorage.jsm:get:474","resource://gre/modules/FxAccountsStorage.jsm:_readPlainStorage:268","resource://gre/modules/FxAccountsStorage.jsm:_initialize:103","resource://gre/modules/FxAccountsStorage.jsm:initialize:72","resource://gre/modules/FxAccounts.jsm:newAccountState:861","resource://gre/modules/FxAccounts.jsm:initialize:755","resource://gre/modules/FxAccounts.jsm:FxAccounts:384","resource://gre/modules/FxAccounts.jsm:getFxAccountsSingleton:1627","resource://services-sync/UIState.jsm:null:244","resource://gre/modules/XPCOMUtils.jsm:get:63","resource://services-sync/UIState.jsm:_getUserData:188","resource://services-sync/UIState.jsm:_refreshFxAState:145","resource://services-sync/UIState.jsm:refreshState:116","resource://services-sync/UIState.jsm:init/<:83"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":175,"stack":["resource://gre/modules/CrashMonitor.jsm:init:175","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":false},"attempts":4,"successes":3,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.jsm","lineNumber":426,"stack":["resource:///modules/sessionstore/SessionFile.jsm:write:426","resource:///modules/sessionstore/SessionFile.jsm:write:54","resource:///modules/sessionstore/SessionSaver.jsm:_writeState:363","resource:///modules/sessionstore/SessionSaver.jsm:_saveState:297","resource:///modules/sessionstore/SessionSaver.jsm:run:165","resource:///modules/sessionstore/SessionSaver.jsm:run:80","resource:///modules/sessionstore/SessionStore.jsm:ssi_uninit:1001","resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplication:2291","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1035"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/build/firefox-6yohV0/firefox-103.0+build1/dom/system/IOUtils.cpp","lineNumber":1982,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/build/firefox-6yohV0/firefox-103.0+build1/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:162","resource://gre/modules/XPCOMUtils.jsm:get:63","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1692","resource:///modules/BrowserGlue.jsm:BG_observe:933","chrome://browser/content/browser.js:_delayedStartup:2144"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":175,"stack":["resource://gre/modules/CrashMonitor.jsm:init:175","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":false},"attempts":3,"successes":2,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.jsm","lineNumber":426,"stack":["resource:///modules/sessionstore/SessionFile.jsm:write:426","resource:///modules/sessionstore/SessionFile.jsm:write:54","resource:///modules/sessionstore/SessionSaver.jsm:_writeState:363","resource:///modules/sessionstore/SessionSaver.jsm:_saveState:297","resource:///modules/sessionstore/SessionSaver.jsm:run:165","resource:///modules/sessionstore/SessionSaver.jsm:run:80","resource:///modules/sessionstore/SessionStore.jsm:ssi_uninit:1001","resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplication:2291","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1035"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/build/firefox-6yohV0/firefox-103.0+build1/dom/system/IOUtils.cpp","lineNumber":1982,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/build/firefox-6yohV0/firefox-103.0+build1/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:162","resource://gre/modules/XPCOMUtils.jsm:get:63","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1692","resource:///modules/BrowserGlue.jsm:BG_observe:933","chrome://browser/content/browser.js:_delayedStartup:2144"]},{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Sat Aug 06 2022 12:40:12 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":null,"messagesSent":17,"messagesReceived":16,"messagesQueued":17,"DEBUG":false,"clients":"Complete"},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1566,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1566","resource://gre/modules/osfile/osfile_async_front.jsm:null:1586","resource://gre/modules/osfile.jsm:null:12","resource://services-common/utils.js:readJSON:434","resource://gre/modules/FxAccountsStorage.jsm:get:474","resource://gre/modules/FxAccountsStorage.jsm:_readPlainStorage:268","resource://gre/modules/FxAccountsStorage.jsm:_initialize:103","resource://gre/modules/FxAccountsStorage.jsm:initialize:72","resource://gre/modules/FxAccounts.jsm:newAccountState:861","resource://gre/modules/FxAccounts.jsm:initialize:755","resource://gre/modules/FxAccounts.jsm:FxAccounts:384","resource://gre/modules/FxAccounts.jsm:getFxAccountsSingleton:1627","resource://services-sync/UIState.jsm:null:244","resource://gre/modules/XPCOMUtils.jsm:get:63","resource://services-sync/UIState.jsm:_getUserData:188","resource://services-sync/UIState.jsm:_refreshFxAState:145","resource://services-sync/UIState.jsm:refreshState:116","resource://services-sync/UIState.jsm:init/<:83"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":175,"stack":["resource://gre/modules/CrashMonitor.jsm:init:175","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":false},"attempts":4,"successes":3,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.jsm","lineNumber":426,"stack":["resource:///modules/sessionstore/SessionFile.jsm:write:426","resource:///modules/sessionstore/SessionFile.jsm:write:54","resource:///modules/sessionstore/SessionSaver.jsm:_writeState:363","resource:///modules/sessionstore/SessionSaver.jsm:_saveState:297","resource:///modules/sessionstore/SessionSaver.jsm:run:165","resource:///modules/sessionstore/SessionSaver.jsm:run:80","resource:///modules/sessionstore/SessionStore.jsm:ssi_uninit:1001","resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplication:2291","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1035"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/build/firefox-6yohV0/firefox-103.0+build1/dom/system/IOUtils.cpp","lineNumber":1982,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/build/firefox-6yohV0/firefox-103.0+build1/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:162","resource://gre/modules/XPCOMUtils.jsm:get:63","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1692","resource:///modules/BrowserGlue.jsm:BG_observe:933","chrome://browser/content/browser.js:_delayedStartup:2144"]},{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Sat Aug 06 2022 12:40:12 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":null,"messagesSent":20,"messagesReceived":19,"messagesQueued":20,"DEBUG":false,"clients":"Complete"},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1566,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1566","resource://gre/modules/osfile/osfile_async_front.jsm:null:1586","resource://gre/modules/osfile.jsm:null:12","resource://services-common/utils.js:readJSON:434","resource://gre/modules/FxAccountsStorage.jsm:get:474","resource://gre/modules/FxAccountsStorage.jsm:_readPlainStorage:268","resource://gre/modules/FxAccountsStorage.jsm:_initialize:103","resource://gre/modules/FxAccountsStorage.jsm:initialize:72","resource://gre/modules/FxAccounts.jsm:newAccountState:861","resource://gre/modules/FxAccounts.jsm:initialize:755","resource://gre/modules/FxAccounts.jsm:FxAccounts:384","resource://gre/modules/FxAccounts.jsm:getFxAccountsSingleton:1627","resource://services-sync/UIState.jsm:null:244","resource://gre/modules/XPCOMUtils.jsm:get:63","resource://services-sync/UIState.jsm:_getUserData:188","resource://services-sync/UIState.jsm:_refreshFxAState:145","resource://services-sync/UIState.jsm:refreshState:116","resource://services-sync/UIState.jsm:init/<:83"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":175,"stack":["resource://gre/modules/CrashMonitor.jsm:init:175","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":false},"attempts":4,"successes":3,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.jsm","lineNumber":426,"stack":["resource:///modules/sessionstore/SessionFile.jsm:write:426","resource:///modules/sessionstore/SessionFile.jsm:write:54","resource:///modules/sessionstore/SessionSaver.jsm:_writeState:363","resource:///modules/sessionstore/SessionSaver.jsm:_saveState:297","resource:///modules/sessionstore/SessionSaver.jsm:run:165","resource:///modules/sessionstore/SessionSaver.jsm:run:80","resource:///modules/sessionstore/SessionStore.jsm:ssi_uninit:1001","resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplication:2291","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1035"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/build/firefox-6yohV0/firefox-103.0+build1/dom/system/IOUtils.cpp","lineNumber":1982,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/build/firefox-6yohV0/firefox-103.0+build1/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:162","resource://gre/modules/XPCOMUtils.jsm:get:63","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1692","resource:///modules/BrowserGlue.jsm:BG_observe:933","chrome://browser/content/browser.js:_delayedStartup:2144"]},{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Sat Aug 06 2022 12:40:12 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":null,"messagesSent":16,"messagesReceived":15,"messagesQueued":17,"DEBUG":false,"clients":"Complete"},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1566,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1566","resource://gre/modules/osfile/osfile_async_front.jsm:null:1586","resource://gre/modules/osfile.jsm:null:12","resource://services-common/utils.js:readJSON:434","resource://gre/modules/FxAccountsStorage.jsm:get:474","resource://gre/modules/FxAccountsStorage.jsm:_readPlainStorage:268","resource://gre/modules/FxAccountsStorage.jsm:_initialize:103","resource://gre/modules/FxAccountsStorage.jsm:initialize:72","resource://gre/modules/FxAccounts.jsm:newAccountState:861","resource://gre/modules/FxAccounts.jsm:initialize:755","resource://gre/modules/FxAccounts.jsm:FxAccounts:384","resource://gre/modules/FxAccounts.jsm:getFxAccountsSingleton:1627","resource://services-sync/UIState.jsm:null:244","resource://gre/modules/XPCOMUtils.jsm:get:63","resource://services-sync/UIState.jsm:_getUserData:188","resource://services-sync/UIState.jsm:_refreshFxAState:145","resource://services-sync/UIState.jsm:refreshState:116","resource://services-sync/UIState.jsm:init/<:83"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":175,"stack":["resource://gre/modules/CrashMonitor.jsm:init:175","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":false},"attempts":4,"successes":3,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.jsm","lineNumber":426,"stack":["resource:///modules/sessionstore/SessionFile.jsm:write:426","resource:///modules/sessionstore/SessionFile.jsm:write:54","resource:///modules/sessionstore/SessionSaver.jsm:_writeState:363","resource:///modules/sessionstore/SessionSaver.jsm:_saveState:297","resource:///modules/sessionstore/SessionSaver.jsm:run:165","resource:///modules/sessionstore/SessionSaver.jsm:run:80","resource:///modules/sessionstore/SessionStore.jsm:ssi_uninit:1001","resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplication:2291","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1035"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/build/firefox-6yohV0/firefox-103.0+build1/dom/system/IOUtils.cpp","lineNumber":1982,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/build/firefox-6yohV0/firefox-103.0+build1/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:162","resource://gre/modules/XPCOMUtils.jsm:get:63","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1692","resource:///modules/BrowserGlue.jsm:BG_observe:933","chrome://browser/content/browser.js:_delayedStartup:2144"]},{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Sat Aug 06 2022 12:40:12 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":["Sat Aug 06 2022 12:40:12 GMT+0530 (India Standard Time)",null],"messagesSent":17,"messagesReceived":17,"messagesQueued":18,"DEBUG":false,"clients":"Complete"},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1566,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1566","resource://gre/modules/osfile/osfile_async_front.jsm:null:1586","resource://gre/modules/osfile.jsm:null:12","resource://services-common/utils.js:readJSON:434","resource://gre/modules/FxAccountsStorage.jsm:get:474","resource://gre/modules/FxAccountsStorage.jsm:_readPlainStorage:268","resource://gre/modules/FxAccountsStorage.jsm:_initialize:103","resource://gre/modules/FxAccountsStorage.jsm:initialize:72","resource://gre/modules/FxAccounts.jsm:newAccountState:861","resource://gre/modules/FxAccounts.jsm:initialize:755","resource://gre/modules/FxAccounts.jsm:FxAccounts:384","resource://gre/modules/FxAccounts.jsm:getFxAccountsSingleton:1627","resource://services-sync/UIState.jsm:null:244","resource://gre/modules/XPCOMUtils.jsm:get:63","resource://services-sync/UIState.jsm:_getUserData:188","resource://services-sync/UIState.jsm:_refreshFxAState:145","resource://services-sync/UIState.jsm:refreshState:116","resource://services-sync/UIState.jsm:init/<:83"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"CrashMonitor: Writing notifications to file after receiving profile-before-change and awaiting all checkpoints written","state":{"profile-after-change":true,"final-ui-startup":true,"sessionstore-windows-restored":true,"quit-application-granted":true,"quit-application":true,"profile-change-net-teardown":true,"profile-change-teardown":true,"profile-before-change":true},"filename":"resource://gre/modules/CrashMonitor.jsm","lineNumber":175,"stack":["resource://gre/modules/CrashMonitor.jsm:init:175","resource://gre/modules/nsCrashMonitor.jsm:observe:19"]},{"name":"SessionFile: Finish writing Session Restore data","state":{"options":{"isFinalWrite":true,"performShutdownCleanup":false},"attempts":4,"successes":3,"failures":0},"filename":"resource:///modules/sessionstore/SessionFile.jsm","lineNumber":426,"stack":["resource:///modules/sessionstore/SessionFile.jsm:write:426","resource:///modules/sessionstore/SessionFile.jsm:write:54","resource:///modules/sessionstore/SessionSaver.jsm:_writeState:363","resource:///modules/sessionstore/SessionSaver.jsm:_saveState:297","resource:///modules/sessionstore/SessionSaver.jsm:run:165","resource:///modules/sessionstore/SessionSaver.jsm:run:80","resource:///modules/sessionstore/SessionStore.jsm:ssi_uninit:1001","resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplication:2291","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1035"]}] Barrier: IOUtils: waiting for profileBeforeChange IO to complete
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"IOUtils Blocker (profile-before-change)","state":"(none)","filename":"/build/firefox-6yohV0/firefox-103.0+build1/dom/system/IOUtils.cpp","lineNumber":1982,"stack":"IOUtils::EventQueue::SetShutdownHooks"},{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/build/firefox-6yohV0/firefox-103.0+build1/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:162","resource://gre/modules/XPCOMUtils.jsm:get:63","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1692","resource:///modules/BrowserGlue.jsm:BG_observe:933","chrome://browser/content/browser.js:_delayedStartup:2144"]},{"name":"OS.File: flush I/O queued before profileBeforeChange","state":{"launched":true,"shutdown":false,"worker":true,"pendingReset":false,"latestSent":["Sat Aug 06 2022 12:40:12 GMT+0530 (India Standard Time)","makeDir"],"latestReceived":null,"messagesSent":16,"messagesReceived":15,"messagesQueued":17,"DEBUG":false,"clients":"Complete"},"filename":"resource://gre/modules/osfile/osfile_async_front.jsm","lineNumber":1566,"stack":["resource://gre/modules/osfile/osfile_async_front.jsm:setupShutdown:1566","resource://gre/modules/osfile/osfile_async_front.jsm:null:1586","resource://gre/modules/osfile.jsm:null:12","resource://services-common/utils.js:readJSON:434","resource://gre/modules/FxAccountsStorage.jsm:get:474","resource://gre/modules/FxAccountsStorage.jsm:_readPlainStorage:268","resource://gre/modules/FxAccountsStorage.jsm:_initialize:103","resource://gre/modules/FxAccountsStorage.jsm:initialize:72","resource://gre/modules/FxAccounts.jsm:newAccountState:861","resource://gre/modules/FxAccounts.jsm:initialize:755","resource://gre/modules/FxAccounts.jsm:FxAccounts:384","resource://gre/modules/FxAccounts.jsm:getFxAccountsSingleton:1627","resource://services-sync/UIState.jsm:null:244","resource://gre/modules/XPCOMUtils.jsm:get:63","resource://services-sync/UIState.jsm:_getUserData:188","resource://services-sync/UIState.jsm:_refreshFxAState:145","resource://services-sync/UIState.jsm:refreshState:116","resource://services-sync/UIState.jsm:init/<:83"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 381))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/build/firefox-6yohV0/firefox-103.0+build1/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:162","resource://gre/modules/XPCOMUtils.jsm:get:63","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1692","resource:///modules/BrowserGlue.jsm:BG_observe:933","chrome://browser/content/browser.js:_delayedStartup:2144"]}] Barrier: profile-before-change
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"Places Connection shutdown","state":{"PlacesShutdownProgress":5},"filename":"/build/firefox-6yohV0/firefox-103.0+build1/toolkit/components/places/Database.cpp","lineNumber":470,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:164","resource://gre/modules/XPCOMUtils.jsm:XPCU_serviceLambda:162","resource://gre/modules/XPCOMUtils.jsm:get:63","resource:///modules/BrowserGlue.jsm:BG__onFirstWindowLoaded:1692","resource:///modules/BrowserGlue.jsm:BG_observe:933","chrome://browser/content/browser.js:_delayedStartup:2144"]}] Barrier: profile-before-change
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1659932727910	geckodriver	INFO	Listening on 127.0.0.1:45041
+1659932728397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "44071" "-no-remote" "-profile" "/tmp/rust_mozprofilecvNzc8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1659932729998	Marionette	INFO	Marionette enabled
+1659932730002	Marionette	INFO	Listening on port 43145
+WebDriver BiDi listening on ws://localhost:44071
+1659932730441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecvNzc8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44071/devtools/browser/7bd6783a-9eba-4825-bcea-90d857d910ad
+JavaScript error: https://supportportal.juniper.net/s/sfsites/auraFW/javascript/QPQi8lbYE8YujG6og6Dqgw/aura_prod.js line 65 > Function line 8 > eval, line 1: TypeError: LWC component's @wire target property or method threw an error during value provisioning. Original error:
+[i[0] is undefined]
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2006\"  data: no]"
+1659962795521	Marionette	INFO	Stopped listening on port 43145
+!!! error running onStopped callback: TypeError: callback is not a function
