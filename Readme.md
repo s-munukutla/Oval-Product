@@ -23,7 +23,7 @@ _Automating the Manual_ _A Python Automation Module for `Lazy Developers`_
 -------------------------------------------------------
 Sheet name:NX-OS
 
-Test ID:oval:**org.tanium.cisco.nxos.cve:tst:11118002**
+Test ID:oval:**cve:tst:11118002**
 
 Test ID:**0**
 
